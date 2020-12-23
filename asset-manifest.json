@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bobofriends/static/css/main.9069b26c.chunk.css",
+    "main.js": "/bobofriends/static/js/main.1339474b.chunk.js",
+    "main.js.map": "/bobofriends/static/js/main.1339474b.chunk.js.map",
+    "runtime-main.js": "/bobofriends/static/js/runtime-main.2ead6d82.js",
+    "runtime-main.js.map": "/bobofriends/static/js/runtime-main.2ead6d82.js.map",
+    "static/css/2.31461e4f.chunk.css": "/bobofriends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.6c6963a3.chunk.js": "/bobofriends/static/js/2.6c6963a3.chunk.js",
+    "static/js/2.6c6963a3.chunk.js.map": "/bobofriends/static/js/2.6c6963a3.chunk.js.map",
+    "static/js/3.843df05b.chunk.js": "/bobofriends/static/js/3.843df05b.chunk.js",
+    "static/js/3.843df05b.chunk.js.map": "/bobofriends/static/js/3.843df05b.chunk.js.map",
+    "index.html": "/bobofriends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/bobofriends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.9069b26c.chunk.css.map": "/bobofriends/static/css/main.9069b26c.chunk.css.map",
+    "static/js/2.6c6963a3.chunk.js.LICENSE.txt": "/bobofriends/static/js/2.6c6963a3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bobofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ead6d82.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.6c6963a3.chunk.js",
+    "static/css/main.9069b26c.chunk.css",
+    "static/js/main.1339474b.chunk.js"
+  ]
+}
